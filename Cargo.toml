@@ -1,9 +1,9 @@
 [package]
 name = "kore"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["kore-lang"]
-description = "Convert JSON values into .kore format — a compact, human-readable data language."
+description = "Convert JSON values into .kore format — a compact, human-readable data language. also for asura lang"
 license = "MIT"
 repository = "https://github.com/l-i-v-i-n/kore"
 homepage = "https://github.com/l-i-v-i-n/kore"
